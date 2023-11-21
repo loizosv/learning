@@ -29,7 +29,7 @@ const page = (
   </div>
 )
 
-//Following challange is invalid. Im using different approach!
+//Following challange is invalid. Im using different approach!6
 /**
 Challenge: fix our code! 
 
