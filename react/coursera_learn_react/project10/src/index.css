@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f8f8f8; /* Light gray background color */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+header {
+  background-color: #333; /* Dark background color for the header */
+  color: white; /* Text color for the header */
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px; /* Add padding to the header */
+}
+
+.nav-items {
+  list-style: none;
+  display: flex;
+}
+
+.nav-items > li {
+  margin-right: 15px; /* Add spacing between nav items */
+  padding: 10px;
+  cursor: pointer; /* Change cursor to pointer for better user experience */
+  color: #fff; /* Text color for nav items */
+}
+
+.App-logo {
+  width: 50px;
+  height: auto; /* Maintain aspect ratio for the logo */
+}
+
+div {
+  max-width: 800px; /* Set a maximum width for the content */
+  margin: 0 auto; /* Center the content */
+  padding: 20px; /* Add padding to the content */
+}
+
+h1 {
+  color: #333; /* Text color for the heading */
+}
+
+ol {
+  padding-left: 20px; /* Add some padding for better list styling */
+}
+
+footer {
+  background-color: #333; /* Dark background color for the footer */
+  color: white; /* Text color for the footer */
+  padding: 10px;
+  text-align: center;
+}
+
+small {
+  font-size: 80%; /* Reduce the font size for the copyright text */
+}
