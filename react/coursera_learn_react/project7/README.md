@@ -1,3 +1,10 @@
+# learning/coursera_learn_react/project7
+This repository is to store the seventh project of the React Learning module
+
+The project 7 of the course can be found in the following link: https://www.coursera.org/learn/learn-react/ungradedWidget/Gmcd2/thought-experiment-use-append-instead-of-reactdom-render
+
+-------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
