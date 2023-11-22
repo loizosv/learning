@@ -1,3 +1,11 @@
+/**
+ *
+ * Author  : Loizos Vasileiou (eeu905)
+ * Module  : UXS-2071 (Scripted Media)
+ * Email   : eeu905@bangor.ac.uk
+ * Project : X071_06_My_Clock
+ *
+ */
 
 var angle = 0.0;
 //lets you set the center of the circle

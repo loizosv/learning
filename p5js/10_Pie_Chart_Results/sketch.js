@@ -1,3 +1,12 @@
+/**
+ *
+ * Author  : Loizos Vasileiou (eeu905)
+ * Module  : UXS-2071 (Scripted Media)
+ * Email   : eeu905@bangor.ac.uk
+ * Project : X071_10_Pie_Chart_Results
+ *
+ */
+
 /* Variables Declaration */
 var pieChartSize = 400;
 var respondentDataInputArray = [100,100,100,100,100]; //Holds the number of answers for each question

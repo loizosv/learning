@@ -1,3 +1,12 @@
+/**
+ *
+ * Author  : Loizos Vasileiou (eeu905)
+ * Module  : UXS-2071 (Scripted Media)
+ * Email   : eeu905@bangor.ac.uk
+ * Project : X071_04_Curved_Space
+ *
+ */
+
 //Canvas Size
 var canvasWidth = 400;
 var canvasHeight = 400;

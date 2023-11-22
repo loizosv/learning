@@ -1,3 +1,12 @@
+/**
+ *
+ * Author  : Loizos Vasileiou (eeu905)
+ * Module  : UXS-2071 (Scripted Media)
+ * Email   : eeu905@bangor.ac.uk
+ * Project : X071_13_PH_Spectrometer
+ *
+ */
+
 var canvasWidth = 700;
 var canvasHeight = 400;
 var arc_diameter = canvasWidth-100; // 400-100 = 300 

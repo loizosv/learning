@@ -3,7 +3,7 @@
  * Author  : Loizos Vasileiou (eeu905)
  * Module  : UXS-2071 (Scripted Media)
  * Email   : eeu905@bangor.ac.uk
- * Project : X071_23_Maze Game
+ * Project : X071_17_Maze Game
  *
  */
 

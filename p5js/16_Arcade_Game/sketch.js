@@ -3,7 +3,7 @@
  * Author  : Loizos Vasileiou (eeu905)
  * Module  : UXS-2071 (Scripted Media)
  * Email   : eeu905@bangor.ac.uk
- * Project : X071_20_Arcade Game
+ * Project : X071_16_Arcade Game
  *
  */
 

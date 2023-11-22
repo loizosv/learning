@@ -1,3 +1,12 @@
+/**
+ *
+ * Author  : Loizos Vasileiou (eeu905)
+ * Module  : UXS-2071 (Scripted Media)
+ * Email   : eeu905@bangor.ac.uk
+ * Project : X071_13_Canvas_Buffer
+ *
+ */
+
 var topBuffer;
 var botttomBuffer;
 let input;

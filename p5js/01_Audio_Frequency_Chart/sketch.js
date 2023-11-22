@@ -3,7 +3,7 @@
  * Author  : Loizos Vasileiou (eeu905)
  * Module  : UXS-2071 (Scripted Media)
  * Email   : eeu905@bangor.ac.uk
- * Project : X071_12_Frequency Chart
+ * Project : X071_01_Frequency Chart
  *
  */
 

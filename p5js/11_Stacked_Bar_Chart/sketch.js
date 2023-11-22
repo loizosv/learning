@@ -1,3 +1,12 @@
+/**
+ *
+ * Author  : Loizos Vasileiou (eeu905)
+ * Module  : UXS-2071 (Scripted Media)
+ * Email   : eeu905@bangor.ac.uk
+ * Project : X071_11_Stacked_Bar_Chart
+ *
+ */
+
 /* Needed Variables Declaration */
 var month1 = [10, 0, 0, 5, 1, 10, 1];
 var month2 = [10, 5, 1, 5, 5, 10, 4];

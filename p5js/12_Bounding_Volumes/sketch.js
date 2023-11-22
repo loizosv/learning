@@ -1,3 +1,12 @@
+/**
+ *
+ * Author  : Loizos Vasileiou (eeu905)
+ * Module  : UXS-2071 (Scripted Media)
+ * Email   : eeu905@bangor.ac.uk
+ * Project : X071_12_Bounding_Volumes
+ *
+ */
+
 let myImage;
 var sizeX = 720;
 var sizeY = 480;
