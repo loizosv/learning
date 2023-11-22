@@ -3,7 +3,7 @@ This repository is used to store learning materials
 
 ---
 
-<img style="float: left; width:50px;" src="[whatever.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png)">
+<img width="30px" src="[React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png)"/>
 
 
 ### Learning React ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png "React Logo")
