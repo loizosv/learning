@@ -31,7 +31,7 @@ var arrayOfLegends = [
   "his is a free online calculator which counts the number of characters or letters in a text, useful for your tweets on Twitter, as well as a multitude of other applications.his is a free online calculator which counts the number of characters or letter 255",
   "Are you happy with your manager?",
   "Are you happy with your coworkers?",
-  "Are you happy with your admin service?","1","2","3","4","5","6","7","8","9","10"
+  "Are you happy with your admin service?"
   
 ];
 
@@ -51,7 +51,7 @@ var legendsWidth = 450; //Extra space 75 pixels
 var canvasWidth = (arrayOfMonths.length * 90) + (legendsWidth);
 var canvasHeight; //Depents on the Chart/Legends Height
 // 11 pixels per Respontant (Height) + some extra space
-var chartHeight = (findMaxNumOfResondents() * 11);
+var chartHeight = (findMaxNumOfResondents() * 12.5);
 var canvasHeight_Legends = ((arrayOfLegends.length*75)+20);
 
 function setup() {
@@ -134,7 +134,7 @@ function chartBase() {
 
   /* DRAW VALUES OF X AXIS */
   for (var y = 0; y < arrayOfMonths_TEXT.length; y++) {
-    text(arrayOfMonths_TEXT[y], jump, canvasHeight - 50);
+    text(arrayOfMonths_TEXT[y], jump, canvasHeight - 120);
     jump += 80; // Change location every loop horizontally
   }
 }
@@ -156,7 +156,7 @@ function addValues() {
       barHeight = arrayOfMonths[x][y] * 9;
 
       if (y == 0) {
-        locY = canvasHeight - barHeight - 78;
+        locY = canvasHeight - barHeight - 148;
       } else {
         locY -= barHeight;
       }
@@ -186,15 +186,15 @@ function addLegends() {
   for (var x = 0; x < arrayOfLegends.length; x++) {
 
     fill(arrayOfColors[x]); //BLACK
-    rect(locX, locY, sizeX, sizeY);
+    rect(locX, locY-140, sizeX, sizeY);
 
     fill(0);
 
-    text(arrayOfLegends[x], locX + 20, locY, 400, 150);
+    text(arrayOfLegends[x], locX + 20, locY-140, 400, 150);
     
 		stroke(160); //Change the stroke of the line
     //Draw Line Seperator
-    line(locX, locY-8, canvasWidth+325,locY-8);
+    line(locX, locY-148, canvasWidth+325,locY-148);
     
 
     locY-=75;
