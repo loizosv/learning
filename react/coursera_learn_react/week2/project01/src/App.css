@@ -1,0 +1,147 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* NAVBAR */
+nav {
+  height: 70px;
+  display: flex;
+  padding: 20px 36px;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+/* SLIDESHOW */
+.container-gallery {
+  padding: 5px;
+}
+
+.heading-text {
+  margin-bottom: 2rem;
+  font-size: 2rem;
+}
+
+.heading-text span {
+  font-weight: 100;
+}
+/* Responsive image gallery rules begin*/
+.image-gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.image-gallery .column {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.image-item img {
+  margin-top: 10px;
+  width: 100%;
+  border-radius: 5px;
+  height: 50%;
+  object-fit: cover;
+}
+
+@media only screen and (min-width: 768px) {
+  .image-gallery {
+    flex-direction: row;
+  }
+}
+@media (max-width: 768px) and (min-width: 0px) {
+  .image-gallery {
+    display: none;
+  }
+}
+/* overlay styles */
+.image-item {
+  position: relative;
+  cursor: pointer;
+}
+
+.overlay {
+  position: absolute;
+  width: 100%;
+  height: 50%;
+  background: rgba(57, 57, 57, 0.502);
+  top: 0;
+  left: 0;
+  transform: scale(0);
+  transition: all 0.1s 0.1s ease-in-out;
+  color: #fff;
+  /* center overlay content */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* hover */
+.image-item:hover .overlay {
+  transform: scale(1);
+}
+
+/* CARDS */
+.card-deck {
+  display: flex;
+  align-items: stretch;
+}
+
+.card {
+  margin: 5px;
+  height: 400px;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.377);
+}
+
+.card-img {
+  object-fit: cover;
+  height: 50%;
+}
+
+.card-body {
+  height: max-content;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-star {
+  height: 15px;
+}
+
+/* FAVICONS*/
+.favorite-icon {
+  position: absolute;
+  top: 2px;
+  right: 6px;
+  font-size: 24px;
+  cursor: pointer;
+  color: red;
+}
+
+.favorite-icon:before {
+  content: '\2661';
+}
+
+.favorite-icon:hover:before,
+.favorite-icon:active:before {
+  content: '\2665';
+  color: red;
+  outline: red;
+}
+
+/* GUEST FAVOURITE */
+.guest-favorite-overlay {
+  display: flex;
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  padding: 5px;
+
+  font-weight: bold;
+  color: black;
+  background-color: white;
+  box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.477);
+  border-radius: 50px;
+}
