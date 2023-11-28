@@ -29,6 +29,23 @@ https://www.coursera.org/learn/learn-react/ungradedWidget/u1AnW/destructuring-pr
 
 https://www.coursera.org/learn/learn-react/ungradedWidget/6wHLF/props-practice
 
+https://www.coursera.org/learn/learn-react/ungradedWidget/1MmqC/passing-in-non-string-props
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/qjjkY/project-pass-props-to-card-component
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/OMhbO/review-array-map
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/q4Ztb/react-renders-arrays
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/58Il9/mapping-components
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/hw0Q1/map-quiz
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/X1USL/loading-images-from-map
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/OO7nX/project-map-experiences-data-into-components
+
+
 -------------------------------------------------------------------------------------------------------------
 
 # React + Vite
