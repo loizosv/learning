@@ -45,6 +45,18 @@ https://www.coursera.org/learn/learn-react/ungradedWidget/X1USL/loading-images-f
 
 https://www.coursera.org/learn/learn-react/ungradedWidget/OO7nX/project-map-experiences-data-into-components
 
+https://www.coursera.org/learn/learn-react/ungradedWidget/wUlq7/project-key-prop
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/TAIh1/project-sold-out-badge
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/iyEdM/project-pass-object-as-props
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/dkAT7/project-spread-object-as-props
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/b9cDA/solo-project-travel-journal
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/xqISZ/react-section-2-recap
+
 
 -------------------------------------------------------------------------------------------------------------
 

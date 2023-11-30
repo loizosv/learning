@@ -7,17 +7,11 @@ import Card from './components/Card';
 import House from './components/House';
 
 function PersonsAndHouses() {
-
   const people = peopleData.map((item, index) => {
     return (
       <Card 
         key={`person_${index}`}
-        personImg={item.personImg}
-        startRate={item.startRate}
-        reviewCount={item.reviewCount}
-        country={item.country}
-        desc={item.desc}
-        price={item.price}
+        item={item}
       />
     )
   })
@@ -26,13 +20,7 @@ function PersonsAndHouses() {
     return(
       <House 
         key={`house_${index}`}
-        guestFav={item.guestFav}
-        houseImage={item.houseImage}
-        startRate={item.startRate}
-        reviewCount={item.reviewCount}
-        location={item.location}
-        desc={item.desc}
-        price={item.price}
+        item={item}
       />
     )
   })

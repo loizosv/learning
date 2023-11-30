@@ -8,23 +8,23 @@ export default function House(props) {
           <div className="favorite-icon">
             {/* Heart icon or any other favorite icon */}
           </div>
-          <img src={props.houseImage} className="card-img" />
-          {props.guestFav === "true" && (
+          <img src={props.item.houseImage} className="card-img" />
+          {props.item.guestFav === "true" && (
               <div className="guest-favorite-overlay">
                   <small><b>Guest Favorite</b></small>
               </div>
           )}
           <div className="card-body">
-            <p>{props.desc}</p>
+            <p>{props.item.desc}</p>
             <div className="d-flex align-items-center">
               <img className="card-star mr-1" src={star} alt="Star Icon" />
-              <span className="mr-1">{props.startRate}</span>
-              <span className="mr-1">({props.reviewCount})</span>
+              <span className="mr-1">{props.item.startRate}</span>
+              <span className="mr-1">({props.item.reviewCount})</span>
             </div>
-            <span>{props.location}</span>
+            <span>{props.item.location}</span>
           </div>
           <div className="card-footer  text-muted">
-            <small><b>From ${props.price}</b></small>
+            <small><b>From ${props.item.price}</b></small>
           </div>
         </div>
       </div>
