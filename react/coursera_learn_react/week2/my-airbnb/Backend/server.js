@@ -43,5 +43,6 @@ app.get('/images_all', (req, res) => {
 })
 
 app.listen(8081, () => {
-    console.log("listening");
+    console.log("DB Server already started");
+    console.log("Listening on Port 8081");
 })

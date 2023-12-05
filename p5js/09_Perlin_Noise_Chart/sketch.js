@@ -23,10 +23,7 @@ var lastX;
 var lastY;
 
 function setup() {
-  
-  h1= createElement("h1","My Demo Chart", width / 2, 30);
-  h1.id("title");
-  
+    
   /* Setup Canvas */
   canvas = createCanvas(canvasWidth, canvasHeight);
   canvas.id("canvas");
