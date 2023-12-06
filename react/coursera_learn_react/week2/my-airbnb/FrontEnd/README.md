@@ -1,4 +1,4 @@
-# learning/coursera_learn_react/week2/project01
+# learning/coursera_learn_react/week2/my-airbnb
 This repository is to store the first project of the React Learning module
 
 The project 1 of the course can be found in the following link(s): 
