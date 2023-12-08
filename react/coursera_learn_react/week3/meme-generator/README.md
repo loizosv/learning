@@ -77,6 +77,52 @@ https://www.coursera.org/learn/learn-react/ungradedWidget/zpJ47/conditional-rend
 
 https://www.coursera.org/learn/learn-react/ungradedWidget/9hI6S/react-forms-intro
 
+https://www.coursera.org/learn/learn-react/ungradedWidget/28SLN/watch-for-input-changes-in-react
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/prN1T/form-inputs-practice
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/JOAYe/forms-state-object
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/Dcmff/controlled-inputs
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/PFa3S/forms-in-react-textarea
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/UpLTp/forms-in-react-radio-buttons
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/wpYfR/forms-in-react-select-option
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/bzj4d/forms-in-react-submitting-the-form
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/LMJIa/forms-quiz
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/Pwqb6/sign-up-form-practice
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/gPjxH/project-add-text-to-image
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/Kq5mc/making-api-calls
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/6e9K6/intro-to-useeffect
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/C7gJF/useeffect-syntax-and-default-behavior
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/6DCWq/useeffect-dependencies-array
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/V0Atg/useeffect-quiz
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/8ZiI0/useeffect-for-fetching-data
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/kcMXE/useeffect-when-to-use-dependencies
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/o1E6Z/project-get-memes-from-api
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/H7Zyj/state-and-effect-practices
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/bGcH2/useeffect-cleanup-function
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/UNSr5/using-an-async-function-inside-useeffect
+
+https://www.coursera.org/learn/learn-react/ungradedWidget/zPFFY/react-section-3-recap
+
 
 -------------------------------------------------------------------------------------------------------------
 

@@ -1,6 +1,6 @@
 import navLogo from "../assets/troll-face.png"
 
-export default function Header(){
+export default function HeaderComponent(){
     return(
         <header className="header">
             <img 
